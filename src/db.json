@@ -1,0 +1,78 @@
+{
+  "users": {
+    "1": "John Doe",
+    "2": "Jane Doe",
+    "3": "Rachel Young",
+    "4": "Alice Smith",
+    "5": "Bob Johnson",
+    "6": "Charlie Brown",
+    "7": "Diana White",
+    "8": "Edward Davis",
+    "9": "Fiona Miller",
+    "10": "Helen Moore"
+  },
+  "posts": [
+    {
+      "id": 246,
+      "userid": 1,
+      "content": "Post about ant"
+    },
+    {
+      "id": 161,
+      "userid": 1,
+      "content": "Post about elephant"
+    },
+    {
+      "id": 150,
+      "userid": 1,
+      "content": "Post about ocean"
+    },
+    {
+      "id": 370,
+      "userid": 1,
+      "content": "Post about monkey"
+    },
+    {
+      "id": 344,
+      "userid": 1,
+      "content": "Post about ocean"
+    },
+    {
+      "id": 952,
+      "userid": 1,
+      "content": "Post about zebra"
+    },
+    {
+      "id": 647,
+      "userid": 1,
+      "content": "Post about igloo"
+    },
+    {
+      "id": 421,
+      "userid": 1,
+      "content": "Post about house"
+    },
+    {
+      "id": 800,
+      "userid": 1,
+      "content": "Post about bat"
+    },
+    {
+      "id": 461,
+      "userid": 1,
+      "content": "Post about umbrella"
+    }
+  ],
+  "comments": [
+    {
+      "id": 3893,
+      "postid": 150,
+      "content": "Old comment"
+    },
+    {
+      "id": 4791,
+      "postid": 150,
+      "content": "Boring comment"
+    }
+  ]
+}
